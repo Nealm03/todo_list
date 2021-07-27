@@ -1,5 +1,5 @@
 source :rubygems
-gem 'sinatra'
-gem 'dm-sqlite-adapter'
-gem 'data_mapper'
-gem 'json'
+gem 'sinatra', '>= 2.0.2'
+gem 'dm-sqlite-adapter', '>= 1.2.0'
+gem 'data_mapper', '>= 1.2.0'
+gem 'json', '>= 2.3.0'
